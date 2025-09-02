@@ -1,1 +1,1 @@
-
+L'objectif de [Mesures_de_similarité_avec_les_17_notions_de_terminale](https://github.com/GwenTsang/Notions_philosophie/blob/main/Classification%20des%20sujets%20de%20dissertation/Mesures_de_similarité_avec_les_17_notions_de_Terminale_(1).ipynb) est de classifier 90 sujets de dissertation tombés au BAC dans 17 catégories possibles : chaque catégorie correspond à une notion au programme de philosophie en Terminale générale.
